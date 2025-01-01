@@ -1,0 +1,43 @@
+head {
+    text-decoration: none;
+}
+
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+    background-color: #fff;
+    /* width: 1440px;
+    height: 3300px; */
+    text-decoration: none;
+}
+
+ul, ol {
+     list-style-type: none; /*прибрати знаки списків шо автоматично задаються в html */
+}
+
+a {
+    text-decoration: none; /*прибрати підкреслення*/
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+span {
+    color: #4d5ae5; /*колір тексту*/
+    font-family: "Raleway", sans-serif;
+}
+
+.Studio {
+    color: #2e2f42; /*колір тексту*/
+    font-family: "Raleway", sans-serif;
+}
+
+.navigation {
+    color: #2e2f42; /*колір тексту*/
+    font-family: "Roboto", sans-serif;
+}
+
+.contacts {
+    color: #434455; /*колір тексту*/
+    font-family: "Roboto", sans-serif;
+}
