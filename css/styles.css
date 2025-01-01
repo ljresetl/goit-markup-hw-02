@@ -84,6 +84,7 @@ h1 {
 
 button {
     background: #4d5ae5;
+    cursor: pointer; /* коли наводиш мишку на кнопку то курсор стає як рука*/
 }
 
 .button-one {
