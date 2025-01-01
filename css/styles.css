@@ -23,23 +23,49 @@ header {
 }
 
 span {
-    color: #4d5ae5; /*колір тексту*/
-    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+        font-family: "Raleway", sans-serif;
 }
 
 .Studio {
-    color: #2e2f42; /*колір тексту*/
-    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #2e2f42;
+        font-family: "Raleway", sans-serif;
 }
 
 .navigation {
-    color: #2e2f42; /*колір тексту*/
-    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+        font-family: "Roboto", sans-serif;
+}
+
+.navigation:active {
+    color: red;
+}
+
+.navigation:hover {
+    color: green;
 }
 
 .contacts {
-    color: #434455; /*колір тексту*/
-    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+        font-family: "Roboto", sans-serif;
 }
 
 .section-one {
@@ -47,8 +73,13 @@ span {
 }
 
 h1 {
-    color: #fff;
-    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+        font-family: "Roboto", sans-serif;
 }
 
 button {
@@ -56,18 +87,30 @@ button {
 }
 
 .button-one {
-    color: #fff;
-    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        font-family: "Roboto", sans-serif;
 }
 
 .zaholovok-section-2 {
-    font-family: "Roboto", sans-serif;
-    color: #2e2f42;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+        font-family: "Roboto", sans-serif;
 }
 
 .paragraf-section-2 {
-    color: #434455;
-    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+        font-family: "Roboto", sans-serif;
 }
 
 .section-3 {
@@ -80,18 +123,33 @@ button {
 }
 
 .zaholovok-section-3 {
-    color: #2e2f42;
-    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+        font-family: "Roboto", sans-serif;
 }
 
 .paragraf-section-3 {
-    color: #434455;
-    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;;
+        font-family: "Roboto", sans-serif;
 }
 
 .zaholovok-Our-Portfolio {
-    color: #2e2f42;
-    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+        font-family: "Roboto", sans-serif;
 }
 
 .foto-4-5-6-7-8-9-10 {
@@ -99,13 +157,21 @@ button {
 }
 
 .zaholovok-section-4 {
-    color: #2e2f42;
-    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+        font-family: "Roboto", sans-serif;
 }
 
 .paragraf-section-4 {
-    color: #434455;
-    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+        font-family: "Roboto", sans-serif;
 }
 
 footer {
@@ -113,11 +179,20 @@ footer {
 }
 
 .footer-text {
-    font-family: "Raleway", sans-serif;
-    color: #f4f4fd;
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #f4f4fd;
 }
 
 .footer-text-paragraf {
-    color: #f4f4fd;
-    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
+        font-family: "Roboto", sans-serif;
 }
