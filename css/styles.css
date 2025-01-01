@@ -19,7 +19,7 @@ a {
 }
 
 header {
-    background-color: rgba(0, 0, 0, 0.25);
+    background-color: rgba(0, 0, 0, 0.25); /*колір фону */
 }
 
 span {
@@ -39,5 +39,85 @@ span {
 
 .contacts {
     color: #434455; /*колір тексту*/
+    font-family: "Roboto", sans-serif;
+}
+
+.section-one {
+    background-color: rgba(0, 0, 0, 0.25); /*колір фону */
+}
+
+h1 {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+}
+
+button {
+    background: #4d5ae5;
+}
+
+.button-one {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+}
+
+.zaholovok-section-2 {
+    font-family: "Roboto", sans-serif;
+    color: #2e2f42;
+}
+
+.paragraf-section-2 {
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+}
+
+.section-3 {
+    background: #f4f4fd;
+}
+
+.foto-1-2-3 {
+    background-color: rgba(0, 0, 0, 0.25);
+    background: #fff;
+}
+
+.zaholovok-section-3 {
+    color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+}
+
+.paragraf-section-3 {
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+}
+
+.zaholovok-Our-Portfolio {
+    color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+}
+
+.foto-4-5-6-7-8-9-10 {
+    background: #fff;
+}
+
+.zaholovok-section-4 {
+    color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+}
+
+.paragraf-section-4 {
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+}
+
+footer {
+    background: #2e2f42;
+}
+
+.footer-text {
+    font-family: "Raleway", sans-serif;
+    color: #f4f4fd;
+}
+
+.footer-text-paragraf {
+    color: #f4f4fd;
     font-family: "Roboto", sans-serif;
 }
