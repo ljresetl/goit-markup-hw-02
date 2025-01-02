@@ -96,7 +96,7 @@ button {
         font-family: "Roboto", sans-serif;
 }
 
-.zaholovok-section-2 {
+.zaholovok-section-two {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -105,7 +105,7 @@ button {
         font-family: "Roboto", sans-serif;
 }
 
-.paragraf-section-2 {
+.paragraf-section-two {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -114,16 +114,16 @@ button {
         font-family: "Roboto", sans-serif;
 }
 
-.section-3 {
+.section-three {
     background: #f4f4fd;
 }
 
-.foto-1-2-3 {
+.foto-one-two-three {
     background-color: rgba(0, 0, 0, 0.25);
     background: #fff;
 }
 
-.zaholovok-section-3 {
+.zaholovok-section-three {
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11111;
@@ -153,11 +153,11 @@ button {
         font-family: "Roboto", sans-serif;
 }
 
-.foto-4-5-6-7-8-9-10 {
+.foto-section-four {
     background: #fff;
 }
 
-.zaholovok-section-4 {
+.zaholovok-section-four {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -166,7 +166,7 @@ button {
         font-family: "Roboto", sans-serif;
 }
 
-.paragraf-section-4 {
+.paragraf-section-four {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
