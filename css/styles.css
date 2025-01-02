@@ -26,21 +26,21 @@ header {
 span {
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #4d5ae5;
-        font-family: "Raleway", sans-serif;
-}
-
-.Studio {
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.17;
+        line-height: 1.16667;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #2e2f42;
         font-family: "Raleway", sans-serif;
+}
+
+.webs {
+                font-weight: 700;
+                font-size: 18px;
+                line-height: 1.17;
+                letter-spacing: 0.03em;
+                text-transform: uppercase;
+                color: #4d5ae5;
+                font-family: "Raleway", sans-serif;
 }
 
 .navigation {
