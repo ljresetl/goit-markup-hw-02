@@ -182,10 +182,11 @@ button:focus {
 .zaholovok-section-four {
         font-weight: 500;
         font-size: 20px;
-        line-height: 1.2;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         color: #2e2f42;
         font-family: "Roboto", sans-serif;
+        text-transform: capitalize;
 }
 
 .paragraf-section-four {
@@ -195,6 +196,7 @@ button:focus {
         letter-spacing: 0.02em;
         color: #434455;
         font-family: "Roboto", sans-serif;
+
 }
 
 footer {
