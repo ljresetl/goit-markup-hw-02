@@ -3,11 +3,12 @@
 } */
 
 body {
-    /* font-family: "Roboto", "Raleway", sans-serif; */
+    font-family: "Roboto", sans-serif;
     background-color: #fff;
     width: 1440px;
     height: 3300px;
     text-decoration: none;
+    color: #434455;
 }
 
 ul, ol {
