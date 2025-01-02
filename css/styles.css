@@ -52,12 +52,12 @@ span {
         font-family: "Roboto", sans-serif;
 }
 
-.navigation:active {
-    color: red;
+.navigation:focus {
+    color: #404bbf;
 }
 
 .navigation:hover {
-    color: green;
+    color: #404bbf;
 }
 
 .contacts {
