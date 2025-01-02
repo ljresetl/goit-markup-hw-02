@@ -145,7 +145,7 @@ button:focus {
     background: #fff;
 }
 
-.section-three>.zaholovok-section-three {
+.zaholovok-section-three {
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
@@ -155,7 +155,7 @@ button:focus {
         font-family: "Roboto", sans-serif;
 }
 
-.section-three>.paragraf-section-3 {
+.paragraf-section-3 {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -176,7 +176,7 @@ button:focus {
 }
 
 .foto-section-four {
-    background: #fff;
+    background-color: #FFFFFF;
 }
 
 .zaholovok-section-four {
