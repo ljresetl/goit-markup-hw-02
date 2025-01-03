@@ -71,28 +71,28 @@ address {
 }
 
 
-/* .contacts {
+.contacts {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
         font-family: "Roboto", sans-serif;
-} */
-address:hover {
-        color: #404bbf;
 }
-/* .contacts:hover {
+/* address:hover {
         color: #404bbf;
 } */
-
-address:focus {
+.contacts:hover {
         color: #404bbf;
 }
 
-/* .contacts:focus {
+/* address:focus {
         color: #404bbf;
 } */
+
+.contacts:focus {
+        color: #404bbf;
+}
 
 .section-one {
         background-color: #2e2f42; /*колір фону */ 
