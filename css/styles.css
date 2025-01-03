@@ -62,7 +62,7 @@ address {
 }
 
 
-.contacts {
+.telefon-mail {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -73,7 +73,7 @@ address {
 /* address:hover {
         color: #404bbf;
 } */
-.contacts:hover {
+.telefon-mail:hover {
         color: #404bbf;
 }
 
@@ -81,7 +81,7 @@ address {
         color: #404bbf;
 } */
 
-.contacts:focus {
+.telefon-mail:focus {
         color: #404bbf;
 }
 
