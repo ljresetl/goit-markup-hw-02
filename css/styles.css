@@ -70,16 +70,11 @@ address {
         color: #434455; */
         font-family: "Roboto", sans-serif;
 }
-/* address:hover {
-        color: #404bbf;
-} */
+
 .telefon-mail:hover {
         color: #404bbf;
 }
 
-/* address:focus {
-        color: #404bbf;
-} */
 
 .telefon-mail:focus {
         color: #404bbf;
