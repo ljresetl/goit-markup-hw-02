@@ -176,7 +176,7 @@ button:focus {
         font-family: "Roboto", sans-serif;
 }
 
-.zaholovok-Our-Portfolio {
+.zah-Our-Portfolio {
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
@@ -185,6 +185,8 @@ button:focus {
         color: #2e2f42;
         text-transform: capitalize;
         font-family: "Roboto", sans-serif;
+
+
 }
 
 .foto-section-four {
