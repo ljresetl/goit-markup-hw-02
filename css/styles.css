@@ -38,7 +38,7 @@ span {
                 font-family: "Raleway", sans-serif;
 }
 
-.navigation {
+.shapka-nav {
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -47,15 +47,15 @@ span {
         font-family: "Roboto", sans-serif;
 }
 
-.navigation:focus {
+.shapka-nav:focus {
     color: #404bbf;
 }
 
-.navigation:hover {
+.shapka-nav:hover {
     color: #404bbf;
 }
 
-address {
+.zviazok-address {
         font-style: normal;
         color: #434455;
         font-family: "Roboto", sans-serif;
@@ -80,11 +80,11 @@ address {
         color: #404bbf;
 }
 
-.section-one {
+.one-section {
         background-color: #2e2f42; /*колір фону */ 
 }
 
-.first {
+.first-zaholovok {
         font-weight: 700;
         font-size: 56px;
         line-height: 1.07;
@@ -107,7 +107,7 @@ button:focus {
         background-color: #404BBF;
 }
 
-.button-one {
+.one-button {
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -134,7 +134,7 @@ button:focus {
         font-family: "Roboto", sans-serif;
 }
 
-.section-three {
+.three-section {
     background: #f4f4fd;
 }
 
