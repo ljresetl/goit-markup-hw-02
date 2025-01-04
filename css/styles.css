@@ -150,6 +150,7 @@ button:focus {
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
         font-family: "Roboto", sans-serif;
 }
 
@@ -166,10 +167,11 @@ button:focus {
 .zaholovok-Our-Portfolio {
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
         font-family: "Roboto", sans-serif;
 }
 
@@ -199,6 +201,8 @@ button:focus {
 
 footer {
     background: #2e2f42;
+    width: 1440px;
+    height: 312px;
 }
 
 .footer-text {
