@@ -215,6 +215,11 @@ footer {
         color: #4d5ae5;
 }
 
+.span-one {
+        color: #f4f4fd;
+        line-height: 1.17;
+}
+
 .footer-text-paragraf {
         font-weight: 400;
         font-size: 16px;
@@ -224,7 +229,3 @@ footer {
         font-family: "Roboto", sans-serif;
 }
 
-.span-one {
-        color: #f4f4fd;
-        line-height: 1.17;
-}
