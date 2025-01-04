@@ -196,7 +196,7 @@ button:focus {
 .zah-section-four {
         font-weight: 500;
         font-size: 20px;
-        line-height: 1.2;
+        line-height: 1.2; /*визначення простору між рядками */
         letter-spacing: 0.02em;
         color: #2e2f42;
         font-family: "Roboto", sans-serif;
@@ -219,7 +219,7 @@ footer {
     height: 312px;
 }
 
-footer>a {
+.niz-footer {
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
