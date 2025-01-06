@@ -8,6 +8,12 @@ ul, ol {
         list-style-type: none; /*прибрати знаки списків шо автоматично задаються в html */
 }
 
+body {
+        font-family: "Roboto", sans-serif;
+        color: #434455;
+        background-color: #FFFFFF;
+}
+
 header {
         width: 1440px;
         height: 72px;
@@ -699,3 +705,12 @@ footer {
         font-family: "Roboto", sans-serif;
 }
 
+.span-two {
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #f4f4fd;
+        font-family: "Raleway", sans-serif;
+}
