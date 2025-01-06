@@ -303,7 +303,7 @@ font-weight: 700;
         background: url("path_to_image");
 }
 
-.three-section-h-mark-guerrero {
+.three-section-h {
         display: flex;
         align-items: center;
         justify-content: center;
@@ -320,7 +320,7 @@ font-weight: 700;
         font-family: "Roboto", sans-serif;
 }
 
-.three-section-p-mark-guerrero {
+.three-section-p {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -349,7 +349,7 @@ font-weight: 700;
         background: url("path_to_image");
 }
 
-.three-section-h-tomford {
+/* .three-section-h-tomford {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -357,8 +357,8 @@ font-weight: 700;
         text-align: center;
         color: #434455;
         font-family: "Roboto", sans-serif;
-}
-
+} */
+/* 
 .three-section-p-tomford {
         font-weight: 400;
         font-size: 16px;
@@ -367,7 +367,7 @@ font-weight: 700;
         text-align: center;
         color: #434455;
         font-family: "Roboto", sans-serif;
-}
+} */
 
 /* .three-section-li-three {
         background-color: #fff;
@@ -387,7 +387,7 @@ font-weight: 700;
         height: 260px;
         background: url("path_to_image");
 }
-
+/* 
 .three-section-h-camila-garcia {
         font-weight: 400;
         font-size: 16px;
@@ -396,8 +396,8 @@ font-weight: 700;
         text-align: center;
         color: #434455;
         font-family: "Roboto", sans-serif;
-}
-
+} */
+/* 
 .three-section-p-camila-garcia {
         font-weight: 400;
         font-size: 16px;
@@ -406,7 +406,7 @@ font-weight: 700;
         text-align: center;
         color: #434455;
         font-family: "Roboto", sans-serif;
-}
+} */
 
 /* .three-section-li-four {
         background-color: #fff;
@@ -427,7 +427,7 @@ font-weight: 700;
         background: url("path_to_image");
 }
 
-.three-section-h-daniel-wilson {
+/* .three-section-h-daniel-wilson {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -435,9 +435,9 @@ font-weight: 700;
         text-align: center;
         color: #434455;
         font-family: "Roboto", sans-serif;
-}
+} */
 
-.three-section-p-daniel-wilson {
+/* .three-section-p-daniel-wilson {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -445,7 +445,7 @@ font-weight: 700;
         text-align: center;
         color: #434455;
         font-family: "Roboto", sans-serif;
-}
+} */
 
 .four-section {
         width: 1128px;
