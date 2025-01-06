@@ -86,6 +86,9 @@ span {
 
 }
 
+address {
+        font-style: normal;
+}
 
 .mail-tel {
         font-weight: 400;
@@ -189,7 +192,7 @@ font-weight: 700;
         font-family: "Roboto", sans-serif;
 }
 
-.three-strategy-h-two {
+/* .three-strategy-h-two {
         display: flex;
         align-items: flex-start;
         justify-content: flex-start;
@@ -203,7 +206,7 @@ font-weight: 700;
         letter-spacing: 0.02em;
         color: #2e2f42;
         font-family: "Roboto", sans-serif;
-}
+} */
 
 .three-strategy-p-two {
         font-weight: 400;
@@ -214,7 +217,7 @@ font-weight: 700;
         font-family: "Roboto", sans-serif;
 }
 
-.three-strategy-h-three {
+/* .three-strategy-h-three {
         display: flex;
         align-items: flex-start;
         justify-content: flex-start;
@@ -228,7 +231,7 @@ font-weight: 700;
         letter-spacing: 0.02em;
         color: #2e2f42;
         font-family: "Roboto", sans-serif;
-}
+} */
 
 .three-strategy-p-three {
         font-weight: 400;
@@ -239,7 +242,7 @@ font-weight: 700;
         font-family: "Roboto", sans-serif;
 }
 
-.three-strategy-h-four {
+/* .three-strategy-h-four {
         display: flex;
         align-items: flex-start;
         justify-content: flex-start;
@@ -253,7 +256,7 @@ font-weight: 700;
         letter-spacing: 0.02em;
         color: #2e2f42;
         font-family: "Roboto", sans-serif;
-}
+} */
 
 .three-strategy-p-four {
         font-weight: 400;
