@@ -270,16 +270,18 @@ font-weight: 700;
 .three-section {
         width: 1440px;
         height: 732px;
+        background-color: #F4F4FD;
 }
 
 .three-section-h {
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
         font-family: "Roboto", sans-serif;
+        text-transform: capitalize;
 }
 
 .three-section-li-one {
@@ -328,7 +330,7 @@ font-weight: 700;
         font-family: "Roboto", sans-serif;
 }
 
-.three-section-li-two {
+/* .three-section-li-two {
         background-color: #fff;
         border-radius: 0 0 4px 4px;
         padding: 0px 0px 32px 0px;
@@ -339,7 +341,7 @@ font-weight: 700;
         justify-content: center;
         flex-direction: column;
         gap: 32px;
-}
+} */
 
 .tom-ford-frontend-developer-foto {
         width: 264px;
@@ -367,7 +369,7 @@ font-weight: 700;
         font-family: "Roboto", sans-serif;
 }
 
-.three-section-li-three {
+/* .three-section-li-three {
         background-color: #fff;
         border-radius: 0 0 4px 4px;
         padding: 0px 0px 32px 0px;
@@ -378,7 +380,7 @@ font-weight: 700;
         justify-content: center;
         flex-direction: column;
         gap: 32px;
-}
+} */
 
 .camila-garcia-marketing-foto {
         width: 264px;
@@ -406,7 +408,7 @@ font-weight: 700;
         font-family: "Roboto", sans-serif;
 }
 
-.three-section-li-four {
+/* .three-section-li-four {
         background-color: #fff;
         border-radius: 0 0 4px 4px;
         padding: 0px 0px 32px 0px;
@@ -417,7 +419,7 @@ font-weight: 700;
         justify-content: center;
         flex-direction: column;
         gap: 32px;
-}
+} */
 
 .daniel-wilson-foto {
         width: 264px;
