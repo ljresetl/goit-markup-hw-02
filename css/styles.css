@@ -86,13 +86,15 @@ span {
 
 }
 
+
 .mail-tel {
         font-weight: 400;
-                font-size: 16px;
-                line-height: 1.5;
-                letter-spacing: 0.02em;
-                color: #434455;
-                font-family: "Roboto", sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+        font-family: "Roboto", sans-serif;
+        font-style: normal;
 }
 
 .mail-tel:hover {
@@ -112,14 +114,14 @@ span {
 .one-h {
         font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
         font-family: "Roboto", sans-serif;
 }
 
-button {
+.one-button {
         background-color: #4d5ae5;
         border-radius: 4px;
         padding: 16px 32px;
@@ -136,6 +138,15 @@ button {
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
+        cursor: pointer;
+}
+
+.one-button:hover {
+        background-color: #404BBF;
+}
+
+.one-button:focus {
+        background-color: #404BBF;
 }
 
 .two-section {
