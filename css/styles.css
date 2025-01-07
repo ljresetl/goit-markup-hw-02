@@ -13,11 +13,6 @@ body {
 }
 
 .menu-nav {
-        display: flex;
-        align-items: flex-start;
-        justify-content: flex-start;
-        flex-direction: row;
-        gap: 40px;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -35,11 +30,7 @@ body {
 }
 
 .main-logo {
-        display: flex;
-        align-items: center;
         justify-content: flex-start;
-        flex-direction: row;
-        gap: 0px;
         font-weight: 700;
         font-size: 18px;
         line-height: 1.17;
@@ -112,11 +103,6 @@ address {
 
 .one-button {
         background-color: #4d5ae5;
-        display: flex;
-        align-items: flex-start;
-        justify-content: flex-start;
-        flex-direction: row;
-        gap: 10px;
         font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
@@ -135,7 +121,7 @@ address {
 }
 
 .two-h {
-font-weight: 700;
+        font-weight: 700;
         font-size: 36px;
         line-height: 1.11111;
         letter-spacing: 0.02em;
@@ -145,11 +131,6 @@ font-weight: 700;
 }
 
 .three-strategy-h {
-        display: flex;
-        align-items: flex-start;
-        justify-content: flex-start;
-        flex-direction: column;
-        gap: 8px;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -168,8 +149,6 @@ font-weight: 700;
 }
 
 .three-section {
-        width: 1440px;
-        height: 732px;
         background-color: #F4F4FD;
 }
 
@@ -186,13 +165,6 @@ font-weight: 700;
 
 .three-section-li-one {
         background-color: #fff;
-        border-radius: 0 0 4px 4px;
-        padding: 0px 0px 32px 0px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
-        gap: 32px;
 }
 
 .mark-guerrero-product-designer-foto {
@@ -200,9 +172,6 @@ font-weight: 700;
 }
 
 .three-section-h-h {
-        display: flex;
-        align-items: center;
-        justify-content: center;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
