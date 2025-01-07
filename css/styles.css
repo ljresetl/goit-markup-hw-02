@@ -519,7 +519,7 @@ font-weight: 700;
         height: 300px;
 }
 
-.four-section-h-two {
+/* .four-section-h-two {
         border-bottom: 1px solid #e7e9fc;
         border-left: 1px solid #e7e9fc;
         border-right: 1px solid #e7e9fc;
@@ -537,8 +537,8 @@ font-weight: 700;
         letter-spacing: 0.02em;
         color: #2e2f42;
         font-family: "Roboto", sans-serif;
-}
-
+} */
+/* 
 .four-section-p-two {
         font-weight: 400;
         font-size: 16px;
@@ -546,7 +546,7 @@ font-weight: 700;
         letter-spacing: 0.02em;
         color: #434455;
         font-family: "Roboto", sans-serif;
-}
+} */
 
 .four-section-li-three {
         background: #fff;
@@ -562,7 +562,7 @@ font-weight: 700;
         height: 300px;
 }
 
-.four-section-h-three {
+/* .four-section-h-three {
         border-bottom: 1px solid #e7e9fc;
         border-left: 1px solid #e7e9fc;
         border-right: 1px solid #e7e9fc;
@@ -580,16 +580,16 @@ font-weight: 700;
         letter-spacing: 0.02em;
         color: #2e2f42;
         font-family: "Roboto", sans-serif;
-}
+} */
 
-.four-section-p-three {
+/* .four-section-p-three {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
         font-family: "Roboto", sans-serif;
-}
+} */
 
 .four-section-li-four {
         background: #fff;
@@ -605,7 +605,7 @@ font-weight: 700;
         height: 300px;
 }
 
-.four-section-h-four {
+/* .four-section-h-four {
         border-bottom: 1px solid #e7e9fc;
         border-left: 1px solid #e7e9fc;
         border-right: 1px solid #e7e9fc;
@@ -623,16 +623,16 @@ font-weight: 700;
         letter-spacing: 0.02em;
         color: #2e2f42;
         font-family: "Roboto", sans-serif;
-}
+} */
 
-.four-section-p-four {
+/* .four-section-p-four {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
         font-family: "Roboto", sans-serif;
-}
+} */
 
 .four-section-li-five {
         background: #fff;
@@ -647,7 +647,7 @@ font-weight: 700;
         width: 360px;
         height: 300px;
 }
-
+/* 
 .four-section-h-five {
         border-bottom: 1px solid #e7e9fc;
         border-left: 1px solid #e7e9fc;
@@ -666,16 +666,16 @@ font-weight: 700;
         letter-spacing: 0.02em;
         color: #2e2f42;
         font-family: "Roboto", sans-serif;
-}
+} */
 
-.four-section-p-five {
+/* .four-section-p-five {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
         font-family: "Roboto", sans-serif;
-}
+} */
 
 .four-section-li-six {
         background: #fff;
@@ -691,7 +691,7 @@ font-weight: 700;
         height: 300px;
 }
 
-.four-section-h-six {
+/* .four-section-h-six {
         border-bottom: 1px solid #e7e9fc;
         border-left: 1px solid #e7e9fc;
         border-right: 1px solid #e7e9fc;
@@ -709,16 +709,16 @@ font-weight: 700;
         letter-spacing: 0.02em;
         color: #2e2f42;
         font-family: "Roboto", sans-serif;
-}
+} */
 
-.four-section-p-six {
+/* .four-section-p-six {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
         font-family: "Roboto", sans-serif;
-}
+} */
 
 footer {
         width: 1440px;
