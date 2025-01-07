@@ -65,7 +65,7 @@ span {
 
 }
 
-address {
+.address-mail-tel {
         font-style: normal;
 }
 
@@ -286,7 +286,7 @@ address {
         background: url("path_to_image");
 }
 
-footer {
+.footer-test {
         background: #2e2f42;
 }
 
