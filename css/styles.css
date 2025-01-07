@@ -455,11 +455,12 @@ font-weight: 700;
 .four-section-h {
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
         font-family: "Roboto", sans-serif;
+        text-transform: capitalize;
 }
 
 .four-section-li-one {
