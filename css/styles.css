@@ -1,311 +1,224 @@
 head {
-        background: #fff;
+        background: #fff; /* Задає білий фон для елемента <head>, хоча він зазвичай не видимий. */
 }
-
-ul, ol {
-        list-style-type: none; /*прибрати знаки списків шо автоматично задаються в html */
+ol {
+        list-style-type: none; /* Видаляє стандартні маркери списків у <ul> і <ol>. */
 }
 
 body {
-        font-family: "Roboto", sans-serif;
-        color: #434455;
-        background-color: #FFFFFF;
-        text-decoration:none;
+        font-family: "Roboto", sans-serif; /* Встановлює шрифт "Roboto" для всього сайту. */
+        color: #434455; /* Встановлює основний колір тексту. */
+        background-color: #FFFFFF; /* Задає білий фон сторінки. */
+        text-decoration: none; /* Видаляє підкреслення тексту, якщо воно є за замовчуванням. */
 }
 
 .menu-nav {
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-        font-family: "Roboto", sans-serif;
+        font-weight: 500; /* Встановлює середню жирність тексту. */
+        font-size: 16px; /* Встановлює розмір шрифту у 16px. */
+        line-height: 1.5; /* Встановлює висоту міжрядкового інтервалу. */
+        letter-spacing: 0.02em; /* Додає невеликий відступ між літерами. */
+        color: #2e2f42; /* Встановлює темно-сірий колір тексту. */
+        font-family: "Roboto", sans-serif; /* Використовує шрифт "Roboto". */
 }
 
 .menu-nav:hover {
-        color: #404bbf;
+        color: #404bbf; /* Змінює колір тексту на синій при наведенні. */
 }
 
 .menu-nav:focus {
-        color: #404bbf;
+        color: #404bbf; /* Змінює колір тексту на синій при фокусі. */
 }
 
 .main-logo {
-        justify-content: flex-start;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #4d5ae5;
-        font-family: "Raleway", sans-serif;
-
+        justify-content: flex-start; /* Вирівнює контент логотипа по лівому краю. */
+        font-weight: 700; /* Задає жирність тексту. */
+        font-size: 18px; /* Встановлює розмір шрифту у 18px. */
+        line-height: 1.17; /* Встановлює висоту міжрядкового інтервалу. */
+        letter-spacing: 0.03em; /* Додає невеликий відступ між літерами. */
+        text-transform: uppercase; /* Змінює всі літери на великі. */
+        color: #4d5ae5; /* Встановлює синій колір тексту. */
+        font-family: "Raleway", sans-serif; /* Використовує шрифт "Raleway". */
 }
 
 span {
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.16667;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #2e2f42;
-        font-family: "Raleway", sans-serif;
+        font-weight: 700; /* Робить текст жирним. */
+        font-size: 18px; /* Встановлює розмір шрифту. */
+        line-height: 1.16667; /* Встановлює міжрядковий інтервал. */
+        letter-spacing: 0.03em; /* Додає відступ між літерами. */
+        text-transform: uppercase; /* Трансформує текст у великі літери. */
+        color: #2e2f42; /* Встановлює темно-сірий колір тексту. */
+        font-family: "Raleway", sans-serif; /* Використовує шрифт "Raleway". */
 }
 
 .menu-nav-a {
-        color: #2e2f42;
+        color: #2e2f42; /* Встановлює темно-сірий колір для посилань меню. */
 }
 
 .menu-nav-a:hover {
-        color: #404bbf;
-
+        color: #404bbf; /* Змінює колір тексту на синій при наведенні. */
 }
 
 .menu-nav-a:focus {
-        color: #404bbf;
-
+        color: #404bbf; /* Змінює колір тексту на синій при фокусі. */
 }
 
 .address-mail-tel {
-        font-style: normal;
+        font-style: normal; /* Змінює стиль шрифту на звичайний. */
 }
 
 .mail-tel {
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-        font-family: "Roboto", sans-serif;
-        font-style: normal;
+        font-weight: 400; /* Встановлює нормальну жирність тексту. */
+        font-size: 16px; /* Задає розмір тексту. */
+        line-height: 1.5; /* Встановлює міжрядковий інтервал. */
+        letter-spacing: 0.02em; /* Додає відступ між літерами. */
+        color: #434455; /* Встановлює основний колір тексту. */
+        font-family: "Roboto", sans-serif; /* Використовує шрифт "Roboto". */
+        font-style: normal; /* Змінює стиль шрифту на звичайний. */
 }
 
 .mail-tel:hover {
-        color: #404bbf;
+        color: #404bbf; /* Змінює колір тексту на синій при наведенні. */
 }
 
 .mail-tel:focus {
-        color: #404bbf;
+        color: #404bbf; /* Змінює колір тексту на синій при фокусі. */
 }
 
 .one-section {
-        background-color: #2e2f42;
+        background-color: #2e2f42; /* Задає темно-сірий фон для секції. */
 }
 
 .one-h {
-        font-weight: 700;
-        font-size: 56px;
-        line-height: 1.07;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #fff;
-        font-family: "Roboto", sans-serif;
+        font-weight: 700; /* Задає жирність тексту. */
+        font-size: 56px; /* Встановлює великий розмір шрифту для заголовка. */
+        line-height: 1.07; /* Встановлює міжрядковий інтервал. */
+        letter-spacing: 0.02em; /* Додає відступ між літерами. */
+        text-align: center; /* Центрує текст. */
+        color: #fff; /* Робить текст білим. */
+        font-family: "Roboto", sans-serif; /* Використовує шрифт "Roboto". */
 }
 
 .one-button {
-        background-color: #4d5ae5;
-        font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
-        color: #fff;
-        cursor: pointer;
+        background-color: #4d5ae5; /* Встановлює синій фон кнопки. */
+        font-family: "Roboto", sans-serif; /* Використовує шрифт "Roboto". */
+        font-weight: 500; /* Встановлює середню жирність тексту. */
+        font-size: 16px; /* Задає розмір тексту. */
+        line-height: 1.5; /* Встановлює міжрядковий інтервал. */
+        letter-spacing: 0.04em; /* Додає відступ між літерами. */
+        color: #fff; /* Робить текст білим. */
+        cursor: pointer; /* Додає вигляд курсора "рука" при наведенні. */
 }
 
 .one-button:hover {
-        background-color: #404BBF;
+        background-color: #404BBF; /* Змінює фон кнопки на темно-синій при наведенні. */
 }
 
 .one-button:focus {
-        background-color: #404BBF;
+        background-color: #404BBF; /* Змінює фон кнопки на темно-синій при фокусі. */
 }
 
 .two-h {
-        font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11111;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
-        font-family: "Roboto", sans-serif;
+        font-weight: 700; /* Задає жирність тексту. */
+        font-size: 36px; /* Встановлює розмір шрифту. */
+        line-height: 1.11111; /* Встановлює міжрядковий інтервал. */
+        letter-spacing: 0.02em; /* Додає відступ між літерами. */
+        text-align: center; /* Центрує текст. */
+        color: #2e2f42; /* Встановлює темно-сірий колір тексту. */
+        font-family: "Roboto", sans-serif; /* Використовує шрифт "Roboto". */
 }
 
 .three-strategy-h {
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-        font-family: "Roboto", sans-serif;
+        font-weight: 500; /* Встановлює середню жирність тексту. */
+        font-size: 20px; /* Задає розмір шрифту. */
+        line-height: 1.2; /* Встановлює міжрядковий інтервал. */
+        letter-spacing: 0.02em; /* Додає відступ між літерами. */
+        color: #2e2f42; /* Встановлює темно-сірий колір тексту. */
+        font-family: "Roboto", sans-serif; /* Використовує шрифт "Roboto". */
 }
 
 .three-strategy-p {
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-        font-family: "Roboto", sans-serif;
+        font-weight: 400; /* Встановлює нормальну жирність тексту. */
+        font-size: 16px; /* Задає розмір тексту. */
+        line-height: 1.5; /* Встановлює міжрядковий інтервал. */
+        letter-spacing: 0.02em; /* Додає відступ між літерами. */
+        color: #434455; /* Встановлює основний колір тексту. */
+        font-family: "Roboto", sans-serif; /* Використовує шрифт "Roboto". */
 }
 
 .three-section {
-        background-color: #F4F4FD;
+        background-color: #F4F4FD; /* Встановлює світло-бузковий фон секції. */
 }
 
 .three-section-h {
-        font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
-        font-family: "Roboto", sans-serif;
-        text-transform: capitalize;
+        font-weight: 700; /* Задає жирність тексту. */
+        font-size: 36px; /* Задає розмір тексту. */
+        line-height: 1.11; /* Встановлює міжрядковий інтервал. */
+        letter-spacing: 0.02em; /* Додає відступ між літерами. */
+        text-align: center; /* Центрує текст. */
+        color: #2e2f42; /* Встановлює темно-сірий колір тексту. */
+        font-family: "Roboto", sans-serif; /* Використовує шрифт "Roboto". */
+        text-transform: capitalize; /* Перетворює першу літеру кожного слова на велику. */
 }
 
 .three-section-li-one {
-        background-color: #fff;
+        background-color: #fff;  /* Задає білий фон для першого елемента списку. */
 }
 
 .mark-guerrero-product-designer-foto {
-        background: url("path_to_image");
+        background: url("path_to_image"); /* Встановлює зображення як фон. */
 }
 
 .three-section-h-h {
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
-        font-family: "Roboto", sans-serif;
+        font-weight: 500; /* Встановлює середню жирність тексту. */
+        font-size: 20px; /* Задає розмір шрифту. */
+        line-height: 1.2; /* Встановлює міжрядковий інтервал. */
+        letter-spacing: 0.02em; /* Додає відступ між літерами. */
+        text-align: center; /* Центрує текст. */
+        color: #2e2f42; /* Встановлює темно-сірий колір тексту. */
+        font-family: "Roboto", sans-serif; /* Використовує шрифт "Roboto". */
 }
 
 .three-section-p {
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #434455;
-        font-family: "Roboto", sans-serif;
+        font-weight: 400; /* Встановлює нормальну жирність тексту. */
+        font-size: 16px; /* Задає розмір тексту. */
+        line-height: 1.5; /* Встановлює міжрядковий інтервал. */
+        letter-spacing: 0.02em; /* Додає відступ між літерами. */
+        text-align: center; /* Центрує текст. */
+        color: #434455; /* Встановлює основний колір тексту. */
+        font-family: "Roboto", sans-serif; /* Використовує шрифт "Roboto". */
 }
 
 .tom-ford-frontend-developer-foto {
-        background: url("path_to_image");
+        background: url("path_to_image"); /* Встановлює зображення як фон для конкретного елемента. */
 }
 
 .camila-garcia-marketing-foto {
-        background: url("path_to_image");
+        background: url("path_to_image"); /* Встановлює зображення як фон для конкретного елемента. */
 }
 
 .daniel-wilson-foto {
-        background: url("path_to_image");
-}
-
-.four-section-h {
-        font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
-        font-family: "Roboto", sans-serif;
-        text-transform: capitalize;
-}
-
-.four-section-li-one {
-        background: #fff;
-}
-
-.four-section-foto-one {
-        background-color: rgba(0, 0, 0, 0.25);
-        background: url("path_to_image");
-}
-
-.four-section-h-one {
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-        font-family: "Roboto", sans-serif;
-}
-
-.four-section-p-one {
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-        font-family: "Roboto", sans-serif;
-}
-
-.four-section-li-two {
-        background: #fff;
-}
-
-.four-section-foto-two {
-        background-color: rgba(0, 0, 0, 0.25);
-        background: url("path_to_image");
-}
-
-.four-section-li-three {
-        background: #fff;
-}
-
-.four-section-foto-three {
-        background-color: rgba(0, 0, 0, 0.25);
-        background: url("path_to_image");
-}
-
-.four-section-li-four {
-        background: #fff;
-}
-
-.four-section-foto-four {
-        background-color: rgba(0, 0, 0, 0.25);
-        background: url("path_to_image");
-}
-
-.four-section-li-five {
-        background: #fff;
-}
-
-.four-section-foto-five {
-        background-color: rgba(0, 0, 0, 0.25);
-        background: url("path_to_image");
-}
-
-.four-section-li-six {
-        background: #fff;
-}
-
-.four-section-foto-six {
-        background-color: rgba(0, 0, 0, 0.25);
-        background: url("path_to_image");
+        background: url("path_to_image"); /* Встановлює зображення як фон для конкретного елемента. */
 }
 
 .footer-test {
-        background: #2e2f42;
+        background: #2e2f42; /* Встановлює темно-сірий фон для футера. */
 }
 
 .text-p-footer {
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #f4f4fd;
-        font-family: "Roboto", sans-serif;
+        font-weight: 400; /* Встановлює нормальну жирність тексту. */
+        font-size: 16px; /* Задає розмір тексту. */
+        line-height: 1.5; /* Встановлює міжрядковий інтервал. */
+        letter-spacing: 0.02em; /* Додає відступ між літерами. */
+        color: #f4f4fd; /* Встановлює білий колір тексту. */
+        font-family: "Roboto", sans-serif; /* Використовує шрифт "Roboto". */
 }
 
 .span-two {
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.16667;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #f4f4fd;
-        font-family: "Raleway", sans-serif;
+        font-weight: 700; /* Робить текст жирним. */
+        font-size: 18px; /* Задає розмір тексту. */
+        line-height: 1.16667; /* Встановлює міжрядковий інтервал. */
+        letter-spacing: 0.03em; /* Додає відступ між літерами. */
+        text-transform: uppercase; /* Перетворює текст у верхній регістр. */
+        color: #f4f4fd; /* Задає білий колір тексту. */
+        font-family: "Raleway", sans-serif; /* Використовує шрифт "Raleway". */
 }
